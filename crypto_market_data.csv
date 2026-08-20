@@ -1,0 +1,4 @@
+id,symbol,name,current_price,market_cap,total_volume,price_change_percentage_24h
+bitcoin,btc,Bitcoin,68582.0,1376782859765,30275879558,5.8
+ethereum,eth,Ethereum,2088.6,252077348019,13881910855,9.0
+solana,sol,Solana,81.81,47702826853,2739299242,6.5
